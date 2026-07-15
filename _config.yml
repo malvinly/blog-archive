@@ -6,6 +6,10 @@ baseurl: "/blog-archive"
 theme: minima
 minima:
   skin: dark
+  hide_site_feed_link: true
+
+author:
+  name: Malvin Ly
 permalink: /:year/:month/:day/:title/
 
 # Archived content predates this site; suppress noisy defaults.
