@@ -4,6 +4,8 @@ url: "https://malvinly.github.io"
 baseurl: "/blog-archive"
 
 theme: minima
+minima:
+  skin: dark
 permalink: /:year/:month/:day/:title/
 
 # Archived content predates this site; suppress noisy defaults.
