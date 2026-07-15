@@ -16,15 +16,15 @@ They do take some getting used to and it may seem a little awkward at first. The
 
 I've worn these straps 4 - 5 times a week, every week, for the past three years. As you can see, they are starting to deteriorate.
 
-[![]({{ site.baseurl }}/assets/images/imgur/7G08jeTl.jpg "Hosted by imgur.com")]({{ site.baseurl }}/assets/images/imgur/7G08jeT.jpg)
+[![]({{ site.baseurl }}/assets/images/2014/07/7G08jeTl.jpg)]({{ site.baseurl }}/assets/images/2014/07/7G08jeT.jpg)
 
 The stitching on the non-slip material was the first to go. As the stitching continued to unravel, the non-slip material started to rip, exposing the cloth material between the layers.
 
-[![]({{ site.baseurl }}/assets/images/imgur/FYRSCQ2l.jpg "Hosted by imgur.com")]({{ site.baseurl }}/assets/images/imgur/FYRSCQ2.jpg)
+[![]({{ site.baseurl }}/assets/images/2014/07/FYRSCQ2l.jpg)]({{ site.baseurl }}/assets/images/2014/07/FYRSCQ2.jpg)
 
 Eventually it has gotten to the point where half of the strap is gone.
 
-[![]({{ site.baseurl }}/assets/images/imgur/5hJuQlXl.jpg "Hosted by imgur.com")]({{ site.baseurl }}/assets/images/imgur/5hJuQlX.jpg)
+[![]({{ site.baseurl }}/assets/images/2014/07/5hJuQlXl.jpg)]({{ site.baseurl }}/assets/images/2014/07/5hJuQlX.jpg)
 
 Durability issues aside, it's still the best lifting straps I've used. I can probably get another six months out of these straps, but I've already purchased another pair in anticipation for when these fail.
 

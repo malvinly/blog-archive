@@ -10,7 +10,7 @@ Although I still prefer the Firefox's developer tools for debugging, I have swit
 
 A while ago, Chrome added an audio icon to indicate which tabs were playing sounds.
 
-![Audio icon in Chrome]({{ site.baseurl }}/assets/images/imgur/4CZmF3T.png)
+![Audio icon in Chrome]({{ site.baseurl }}/assets/images/2015/05/4CZmF3T.png)
 
 While I love this feature, I always wanted a way to manually mute a single tab. Well, there is a way and I can't believe I never knew about it until now. Just copy and paste the following into Chrome's address bar and enable the audio mute option:
 
@@ -22,4 +22,4 @@ chrome://flags/#enable-tab-audio-muting
 
 Now I can click on the audio icon and mute a single tab without having to mute my entire computer.
 
-![Audio muted in Chrome]({{ site.baseurl }}/assets/images/imgur/54F9OUS.png)
+![Audio muted in Chrome]({{ site.baseurl }}/assets/images/2015/05/54F9OUS.png)

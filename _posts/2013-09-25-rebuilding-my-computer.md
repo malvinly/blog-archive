@@ -23,18 +23,18 @@ All the components were purchased at Microcenter. The total came out to be $50 m
 
 The Corsair Obsidian 650D is one of the best cases I've worked with. There are several cutouts for cable routing and about an inch of space for cable management. There are also two removable dust filters, one for the front fan intake and one for the power supply intake below the case. I also use the opening at the top of the case as an intake, but it doesn't come with a dust filter. The only real negative about the case is that it doesn't come with USB 3.0 headers for the front ports. Instead, it comes with a USB extension that I have to route to the back of the case, which uses up two of the back ports.
 
-[![]({{ site.baseurl }}/assets/images/imgur/ST5K9m2l.jpg)]({{ site.baseurl }}/assets/images/imgur/ST5K9m2.jpg)
+[![]({{ site.baseurl }}/assets/images/2013/09/ST5K9m2l.jpg)]({{ site.baseurl }}/assets/images/2013/09/ST5K9m2.jpg)
 
 The case also has removable hard drive cages. Since I only have two hard drives, I removed the top cage to provide more airflow from the front 200mm fan. The hard drive trays include screw holes for 2.5in drives, so I didn't need to purchase an additional adapter for the SSD.
 
-[![]({{ site.baseurl }}/assets/images/imgur/kyKHNrcl.jpg)]({{ site.baseurl }}/assets/images/imgur/kyKHNrc.jpg)
+[![]({{ site.baseurl }}/assets/images/2013/09/kyKHNrcl.jpg)]({{ site.baseurl }}/assets/images/2013/09/kyKHNrc.jpg)
 
 The CPU cooler I purchased is a closed loop water cooler. This type of cooler is great when I need to move my computer since there isn't 2 lbs of metal straining my motherboard when compared to an air cooler. The cooler uses two 120mm fans attached to a radiator. Corsair recommends positioning the fans as intake for the radiator, so it pulls cooler air from outside the case.
 
-[![]({{ site.baseurl }}/assets/images/imgur/OnhDjAdl.jpg)]({{ site.baseurl }}/assets/images/imgur/OnhDjAd.jpg)
+[![]({{ site.baseurl }}/assets/images/2013/09/OnhDjAdl.jpg)]({{ site.baseurl }}/assets/images/2013/09/OnhDjAd.jpg)
 
 This is also the first motherboard I've purchased that utilizes UEFI instead of BIOS. It's much nicer to look at and easier to navigate with a mouse.
 
-[![]({{ site.baseurl }}/assets/images/imgur/OybysbPl.jpg)]({{ site.baseurl }}/assets/images/imgur/OybysbP.jpg)
+[![]({{ site.baseurl }}/assets/images/2013/09/OybysbPl.jpg)]({{ site.baseurl }}/assets/images/2013/09/OybysbP.jpg)
 
 From what I've read online, this processor does tend to run on the hotter side. At stock speeds, the processor idles at 30C and peaks at 60C under load. Without increasing voltage, I increased the CPU multiplier to 40x for 4.0 GHz. With the slight overclock, the temperatures didn't change. I tried increasing the voltage to 1.2v and the CPU multiplier to 45x for 4.5 GHz, but the temperature soared to 80C under load. I'm not comfortable running at those temperatures, so I may experiment some more this weekend. I used the stock TIM that was already applied to the CPU cooler, so I may remove that and apply some Arctic Silver and re-seat the cooler to see it makes a difference.

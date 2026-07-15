@@ -8,7 +8,7 @@ original_url: https://nivlam.wordpress.com/2015/12/10/back-from-nsbcon-2015/
 
 I just returned from Dallas having attended NSBCon 2015.  Overall, a very positive experience with several informative sessions.  It was a good opportunity for me to relax and rejuvenated since I haven't been feeling very motivated lately.
 
-![]({{ site.baseurl }}/assets/images/imgur/Ceh672El.jpg)
+![]({{ site.baseurl }}/assets/images/2015/12/Ceh672El.jpg)
 
 One of the announcements was ServiceMatrix is being discontinued. I've never been a fan of using drag-drop tools for anything outside of user interface development, so the discontinuation will probably save me some stress in the future.
 
