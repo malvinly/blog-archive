@@ -1,0 +1,10 @@
+title: Malvin Ly
+description: Archive of my old WordPress blog.
+url: "https://malvinly.github.io"
+baseurl: "/blog-archive"
+
+theme: minima
+permalink: /:year/:month/:day/:title/
+
+# Archived content predates this site; suppress noisy defaults.
+show_excerpts: false
