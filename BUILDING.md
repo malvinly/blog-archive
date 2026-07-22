@@ -28,7 +28,6 @@ Then open **http://localhost:4000/blog-archive/**. Note the `/blog-archive/` pat
 
 Useful flags:
 
-- `--drafts`: include posts from `_drafts/` in the preview
 - `--livereload`: auto-refresh the browser on rebuild
 - `bundle exec jekyll build`: build into `_site/` without serving
 
@@ -37,5 +36,4 @@ Useful flags:
 ## Layout
 
 - `_posts/`: published posts, named `YYYY-MM-DD-title-slug.md`; the date and slug become the URL (`/:year/:month/:day/:title/`, matching the old WordPress permalinks)
-- `_drafts/`: unpublished drafts (no date prefix); only rendered locally with `--drafts`
 - `assets/images/<year>/<month>/`: post images, organized by the referencing post's date
